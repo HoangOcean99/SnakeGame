@@ -6,7 +6,7 @@
 ---
 
 ## 🚀 Features
-- ✨ Feature 1: user can do every calculating as calculator
+- ✨ Feature 1: User can controll snake to find food
 
 ---
 
